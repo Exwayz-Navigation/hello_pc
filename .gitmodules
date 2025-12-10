@@ -1,0 +1,9 @@
+[submodule "third_party/eigen"]
+	path = third_party/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "third_party/nanoflann"]
+	path = third_party/nanoflann
+	url = https://github.com/jlblancoc/nanoflann.git
+[submodule "third_party/happly"]
+	path = third_party/happly
+	url = https://github.com/nmwsharp/happly.git
