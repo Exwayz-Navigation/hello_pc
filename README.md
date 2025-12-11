@@ -5,6 +5,7 @@
 Clone repository with submodules:
 ```
 git clone --recursive https://github.com/Exwayz-Navigation/hello_pc.git
+cd hello_pc
 ```
 
 Create build directory:
